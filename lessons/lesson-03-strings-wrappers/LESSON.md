@@ -54,5 +54,5 @@ Read a string, print it reversed, count the vowels.
 
 ## 5. GLAB/PA Handoff (2 min)
 - ✅ **GLAB 303.3.1** — String methods. Same methods, Java syntax.
-- ✅ **GLAB 303.3.2** — Reading string from console. You know Scanner.
+- ✅ **GLAB 303.3.2** — Reading string from console. You know ScannerPrac.
 - ✅ **PA 303.3.1** — String practice.

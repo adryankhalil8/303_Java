@@ -19,7 +19,7 @@ let result = score >= 60 ? "Pass" : "Fail";
 console.log(result);
 
 // Switch — SAME concept
-let day = "Monday";
+let day = "Saturday";
 switch (day) {
     case "Monday":
     case "Tuesday":

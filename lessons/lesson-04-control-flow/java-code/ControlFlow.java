@@ -21,7 +21,7 @@ public class ControlFlow {
         System.out.println(result);
 
         // Switch — same concept, Java supports String since Java 7
-        String day = "Monday";
+        String day = "Saturday";
         switch (day) {
             case "Monday":
             case "Tuesday":

@@ -1,7 +1,7 @@
 # Lesson 2: Variables, Types & Operators (~20 min)
 
 ## 🎯 Goal
-Understand Java's type system vs JavaScript's. Use Scanner for input. Master the modulus operator.
+Understand Java's type system vs JavaScript's. Use ScannerPrac for input. Master the modulus operator.
 
 ---
 
@@ -33,16 +33,16 @@ Java will **not** let you do this. Every variable declares its type **once**.
 
 ---
 
-## 3. Scanner — Getting User Input (3 min)
+## 3. ScannerPrac — Getting User Input (3 min)
 
 > Open `java-code/ScannerDemo.java`
 
 In JS (browser): `prompt("Enter name")`
 In JS (Node): `readline`
-In Java: `Scanner`
+In Java: `ScannerPrac`
 
 ```java
-Scanner sc = new Scanner(System.in);
+ScannerPrac sc = new ScannerPrac(System.in);
 int num = sc.nextInt();
 String name = sc.nextLine();
 double gpa = sc.nextDouble();
@@ -63,7 +63,7 @@ The modulus operator is critical for the SBA!
 - ✅ **GLAB 303.2.1** — Operators. You just practiced these.
 - ✅ **GLAB 303.2.2** — Type Casting. Like JS coercion but explicit: `(int) 3.14` → `3`
 - ✅ **PA 303.2.1** — Variables practice
-- ✅ **PA 303.2.2** — Scanner practice
+- ✅ **PA 303.2.2** — ScannerPrac practice
 - ✅ **PA 303.2.3** — Operators & numbers
 - ✅ **PA 303.2.4** — Core Java practice
 
