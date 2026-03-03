@@ -124,7 +124,7 @@ import java.util.Arrays;
 //    }
 //}
 
-// Method 11
+// Method 11 indexOf()
 //public class javaStringMethods {
 //    public static void main(String[] args) {
 //        String str1 = "Java is fun";
@@ -157,7 +157,7 @@ import java.util.Arrays;
 //    }
 //}
 
-//Method 12
+//Method 12 contains()
 //public class javaStringMethods {
 //    public static void main(String[] args) {
 //        String str1 = "Learn Java";
@@ -178,30 +178,30 @@ import java.util.Arrays;
 //    }
 //}
 
-//Method 13
-//public class javaStringMethods {
-//    public static void main(String[] args) {
-//        String str1 = "abc cba";
-//
-//        // all occurrences of 'a' is replaced with 'z'
-//        System.out.println(str1.replace('a', 'z'));
-//
-//        // all occurences of 'L' is replaced with 'J'
-//        System.out.println("Lava".replace('L', 'J'));
-//        // character not in the string
-//        System.out.println("Hello".replace('4', 'J'));
-//// all occurrences of "C++" is replaced with "Java"
-//        System.out.println(str1.replace("C++", "Java"));
-//
-//        // all occurences of "aa" is replaced with "zz"
-//        System.out.println("aa bb aa zz".replace("aa", "zz"));
-//
-//        // substring not in the string
-//        System.out.println("Java".replace("C++", "C"));
-//    }
-//}
+//Method 13 replace()
+public class javaStringMethods {
+    public static void main(String[] args) {
+        String str1 = "abc cba";
 
-// Method 14
+        // all occurrences of 'a' is replaced with 'z'
+        System.out.println(str1.replace('a', 'z'));
+
+        // all occurences of 'L' is replaced with 'J'
+        System.out.println("Lava".replace('L', 'J'));
+        // character not in the string
+        System.out.println("Hello".replace('4', 'J'));
+// all occurrences of "C++" is replaced with "Java"
+        System.out.println(str1.replace("C++", "Java"));
+
+        // all occurences of "aa" is replaced with "zz"
+        System.out.println("aa bb aa zz".replace("aa", "zz"));
+
+        // substring not in the string
+        System.out.println("Java".replace("C++", "C"));
+    }
+}
+
+// Method 14 replaceAll()
 //public class javaStringMethods {
 //    public static void main(String[] args) {
 //        String str1 = "Java123is456fun";
@@ -215,7 +215,7 @@ import java.util.Arrays;
 //    }
 //}
 
-//Method 15
+//Method 15 compares
 //public class javaStringMethods {
 //    public static void main(String args[]){
 //        String s1="PerScholas";
