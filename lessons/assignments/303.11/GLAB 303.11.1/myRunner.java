@@ -7,4 +7,5 @@ public class myRunner {
         dObj.genericsMethod(2563.5); // passing float
         dObj.genericsMethod('H'); // passing Char
     }
+    int = 45
 }
