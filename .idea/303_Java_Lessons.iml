@@ -2,7 +2,24 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/303.4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/GLAB303.2.1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/GLAB303.2.2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/GLAB303.3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/PA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/PA303.2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/PA303.2.2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/302.2.3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/303.11/GLAB 303.11.1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/303.6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/303.7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/303.9/PA303.9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/303.9/inheritanceDemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/GLAB303.5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/PA303.4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lessons/assignments/Test" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

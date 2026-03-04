@@ -1,4 +1,4 @@
-# Lesson 9: Encapsulation & Inheritance (~20 min)
+# Lesson 9: Doctor & Inheritance (~20 min)
 
 ## 🎯 Goal
 Learn private fields + getters/setters. Understand `extends` and `super` (same as JS).
@@ -11,7 +11,7 @@ Learn private fields + getters/setters. Understand `extends` and `super` (same a
 
 ---
 
-## 2. Encapsulation: Private + Getters/Setters (8 min)
+## 2. Doctor: Private + Getters/Setters (8 min)
 
 > Open both files side-by-side
 
@@ -52,6 +52,6 @@ public class Student extends Person {
 ---
 
 ## 5. GLAB/PA Handoff (2 min)
-- ✅ **GLAB 303.9.1** — Encapsulation exercise
+- ✅ **GLAB 303.9.1** — Doctor exercise
 - ✅ **GLAB 303.9.2** — Basic inheritance
 - ✅ **PA 303.9.1** — Inheritance & overloading practice

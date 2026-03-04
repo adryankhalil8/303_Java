@@ -7,10 +7,13 @@
 public class Exercise {
 
     // TODO: Declare fields
-    //   String name;
-    //   int[] grades;
+       String name;
+       int[] grades;
+    public Exercise(String name, int numberOfClasses) {
+        this.name = name;
+        this.grades = new int[numberOfClasses];
 
-    // TODO: Constructor — takes name and numberOfClasses
+
     //   Initialize grades array with the given size
     //   Set all grades to 0 initially
 
